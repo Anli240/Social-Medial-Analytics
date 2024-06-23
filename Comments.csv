@@ -1,0 +1,21 @@
+﻿comment_id,post_id,user_id,comment_text,comment_date
+1,1,2,Welcome to the platform!,2023-01-03
+2,2,1,Great photo!,2023-02-17
+3,3,4,Keep up the good work!,2023-03-22
+4,4,3,Happy Friday to you too!,2023-04-12
+5,5,2,Have a fantastic weekend!,2023-05-07
+6,6,3,I love the weather too!,2023-06-16
+7,7,4,Can't wait to try it!,2023-07-21
+8,8,5,Where are you going?,2023-08-26
+9,9,1,Sounds fun!,2023-10-01
+10,10,2,Reflecting is important.,2023-10-06
+11,11,3,Holidays are the best!,2023-11-11
+12,12,4,What hobbies?,2023-12-16
+13,13,5,Share your tips!,2024-01-21
+14,14,1,Keep going!,2024-02-26
+15,15,2,Tell us more!,2024-03-31
+16,16,3,Any recommendations?,2024-04-06
+17,17,4,I need book ideas.,2024-05-11
+18,18,5,Show us your projects!,2024-06-16
+19,19,1,Share your memories!,2024-07-21
+20,20,2,Keep growing!,2024-08-26
